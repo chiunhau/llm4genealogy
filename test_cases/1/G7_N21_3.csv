@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+秀英,富強,CHILD
+和光,子豪,PARENT
+曉晴,德康,SPOUSE
+秀英,明智,SIBLING
+清風,子賢,GRANDCHILD
+文莉,美慧,GRANDPARENT
+子豪,雅靜,UNCLE_OR_AUNT
+永芳,清風,NEPHEW_OR_NIECE
+永芳,靜宜,GREAT_GRANDCHILD
+靜宜,永芳,GREAT_GRANDPARENT
+和順,曉晴,COUSIN

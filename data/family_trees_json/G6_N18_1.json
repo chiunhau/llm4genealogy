@@ -1,0 +1,92 @@
+{
+  "name": "文秀",
+  "children": [
+    {
+      "name": "子辰",
+      "children": [
+        {
+          "name": "思賢",
+          "children": [
+            {
+              "name": "和光",
+              "children": []
+            }
+          ],
+          "spouse": "秀英"
+        },
+        {
+          "name": "靜宜",
+          "children": []
+        },
+        {
+          "name": "子睿",
+          "children": [
+            {
+              "name": "愛玲",
+              "children": [
+                {
+                  "name": "興隆",
+                  "children": []
+                }
+              ],
+              "spouse": "長福"
+            }
+          ],
+          "spouse": "子霖"
+        }
+      ],
+      "spouse": "安寧"
+    },
+    {
+      "name": "和睦",
+      "children": [
+        {
+          "name": "清風",
+          "children": [
+            {
+              "name": "子墨",
+              "children": []
+            },
+            {
+              "name": "興業",
+              "children": [
+                {
+                  "name": "永芳",
+                  "children": [
+                    {
+                      "name": "永福",
+                      "children": []
+                    },
+                    {
+                      "name": "曉晴",
+                      "children": []
+                    }
+                  ],
+                  "spouse": "子濤"
+                }
+              ],
+              "spouse": "文雅"
+            }
+          ]
+        },
+        {
+          "name": "建國",
+          "children": [
+            {
+              "name": "慧敏",
+              "children": []
+            }
+          ],
+          "spouse": "星辰"
+        },
+        {
+          "name": "思遠",
+          "children": [],
+          "spouse": "安民"
+        }
+      ],
+      "spouse": "明月"
+    }
+  ],
+  "spouse": "雅文"
+}

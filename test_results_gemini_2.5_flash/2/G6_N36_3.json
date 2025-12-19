@@ -1,0 +1,123 @@
+[
+  {
+    "person_b": "清風",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "子瑜",
+      "思遠",
+      "永安"
+    ],
+    "llm_prediction": "興盛, 玉蘭, 永安, 子晨, 秀英, 子瑜, 思遠"
+  },
+  {
+    "person_b": "曉晴",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "玉蘭"
+    ],
+    "llm_prediction": "永安, 玉蘭"
+  },
+  {
+    "person_b": "和順",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "雅麗"
+    ],
+    "llm_prediction": "雅麗, 長青"
+  },
+  {
+    "person_b": "子辰",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "和悅",
+      "建國",
+      "明正"
+    ],
+    "llm_prediction": "(child of 永安 and 柏森) has children. It also has *siblings*: 秀英, 子瑜, 思遠.\n\n    The question asks for"
+  },
+  {
+    "person_b": "永安",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "和順",
+      "天朗",
+      "長青",
+      "雅靜"
+    ],
+    "llm_prediction": "子辰, 文靜, 建國, 明正, 和悅, 長青, 雅麗, 和順"
+  },
+  {
+    "person_b": "和順",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "和順",
+      "思齊",
+      "永安",
+      "玉蘭",
+      "興業",
+      "雅麗"
+    ],
+    "llm_prediction": "長青, 和順, 興業, 思齊"
+  },
+  {
+    "person_b": "子涵",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "子晨",
+      "子瑜",
+      "思遠",
+      "永安",
+      "玉蘭",
+      "秀英"
+    ],
+    "llm_prediction": "思賢, 和光"
+  },
+  {
+    "person_b": "永祿",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "和睦",
+      "子晨",
+      "子瑜",
+      "子謙",
+      "思遠",
+      "永安",
+      "興盛"
+    ],
+    "llm_prediction": "NOT_FOUND"
+  },
+  {
+    "person_b": "清風",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "和順",
+      "天朗",
+      "愛玲",
+      "明達",
+      "美慧",
+      "長青",
+      "雅靜"
+    ],
+    "llm_prediction": "建國, 文靜, 明正, 和悅, 長青, 和順, 子濤, 安民, 雅麗, 雅靜, 柏森, 明達, 子睿"
+  },
+  {
+    "person_b": "文傑",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "和平",
+      "子琪"
+    ],
+    "llm_prediction": "和平, 子琪"
+  },
+  {
+    "person_b": "曉晴",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "和光",
+      "夢瑤",
+      "子涵",
+      "明月"
+    ],
+    "llm_prediction": "長青, 雅麗, 和順"
+  }
+]

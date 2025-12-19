@@ -1,0 +1,111 @@
+[
+  {
+    "person_b": "星辰",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "和順",
+      "富強",
+      "愛玲",
+      "柏林",
+      "秀英"
+    ],
+    "llm_prediction": "和順, 秀英, 富強, 愛玲, 柏林"
+  },
+  {
+    "person_b": "明智",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "和悅"
+    ],
+    "llm_prediction": "子濤, 和悅"
+  },
+  {
+    "person_b": "和順",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "興邦"
+    ],
+    "llm_prediction": "文靜"
+  },
+  {
+    "person_b": "美慧",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "子悅",
+      "思遠"
+    ],
+    "llm_prediction": "子悦, 天朗, 思遠, 子睿"
+  },
+  {
+    "person_b": "長樂",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "安國",
+      "文秀"
+    ],
+    "llm_prediction": "文秀, 安國"
+  },
+  {
+    "person_b": "永祿",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "和悅",
+      "子濤"
+    ],
+    "llm_prediction": "和悅, 子濤"
+  },
+  {
+    "person_b": "子悅",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "和光",
+      "和睦"
+    ],
+    "llm_prediction": "子賢, 子陽, 和睦, 星辰, 長樂, 和光"
+  },
+  {
+    "person_b": "和睦",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "和順",
+      "子悅",
+      "富強",
+      "思遠",
+      "愛玲",
+      "柏林",
+      "永祿",
+      "秀英",
+      "美慧"
+    ],
+    "llm_prediction": "永祿, 子悅, 天朗, 美慧, 思遠, 和順, 秀英, 富強, 愛玲, 柏林"
+  },
+  {
+    "person_b": "子濤",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "安國",
+      "文秀",
+      "文靜",
+      "興邦",
+      "雅麗"
+    ],
+    "llm_prediction": "文秀, 安國, 子晨, 文靜, 和順, 興邦, 雅麗"
+  },
+  {
+    "person_b": "雅麗",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "和悅",
+      "子濤"
+    ],
+    "llm_prediction": "子濤, 和悅"
+  },
+  {
+    "person_b": "愛玲",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "永祿"
+    ],
+    "llm_prediction": "永祿,子悅,天朗,美慧,思遠,子睿"
+  }
+]

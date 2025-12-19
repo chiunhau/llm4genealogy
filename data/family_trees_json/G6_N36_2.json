@@ -1,0 +1,177 @@
+{
+  "name": "安民",
+  "children": [
+    {
+      "name": "思賢",
+      "children": [
+        {
+          "name": "興業",
+          "children": [
+            {
+              "name": "和睦",
+              "children": [
+                {
+                  "name": "子陽",
+                  "children": []
+                }
+              ],
+              "spouse": "子涵"
+            }
+          ],
+          "spouse": "建國"
+        },
+        {
+          "name": "長樂",
+          "children": [
+            {
+              "name": "長青",
+              "children": [
+                {
+                  "name": "子霖",
+                  "children": [
+                    {
+                      "name": "安國",
+                      "children": []
+                    },
+                    {
+                      "name": "文莉",
+                      "children": []
+                    },
+                    {
+                      "name": "柏林",
+                      "children": []
+                    }
+                  ],
+                  "spouse": "秀英"
+                }
+              ],
+              "spouse": "和順"
+            },
+            {
+              "name": "和悅",
+              "children": [
+                {
+                  "name": "思源",
+                  "children": []
+                },
+                {
+                  "name": "子辰",
+                  "children": []
+                },
+                {
+                  "name": "玉蘭",
+                  "children": [
+                    {
+                      "name": "柏森",
+                      "children": [],
+                      "spouse": "子琪"
+                    }
+                  ],
+                  "spouse": "清風"
+                }
+              ],
+              "spouse": "和光"
+            }
+          ],
+          "spouse": "文秀"
+        },
+        {
+          "name": "子墨",
+          "children": [
+            {
+              "name": "美慧",
+              "children": [
+                {
+                  "name": "安邦",
+                  "children": [
+                    {
+                      "name": "子悅",
+                      "children": []
+                    }
+                  ],
+                  "spouse": "明正"
+                },
+                {
+                  "name": "子瑜",
+                  "children": [
+                    {
+                      "name": "愛玲",
+                      "children": []
+                    },
+                    {
+                      "name": "武雄",
+                      "children": []
+                    }
+                  ],
+                  "spouse": "子睿"
+                }
+              ],
+              "spouse": "靜宜"
+            },
+            {
+              "name": "文傑",
+              "children": []
+            },
+            {
+              "name": "明智",
+              "children": [
+                {
+                  "name": "文靜",
+                  "children": []
+                }
+              ],
+              "spouse": "子豪"
+            },
+            {
+              "name": "永芳",
+              "children": []
+            }
+          ],
+          "spouse": "子軒"
+        },
+        {
+          "name": "安寧",
+          "children": []
+        },
+        {
+          "name": "雅麗",
+          "children": [
+            {
+              "name": "德康",
+              "children": []
+            }
+          ],
+          "spouse": "明達"
+        },
+        {
+          "name": "明珠",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "興邦",
+      "children": [
+        {
+          "name": "永福",
+          "children": [
+            {
+              "name": "永祿",
+              "children": []
+            },
+            {
+              "name": "瑞雪",
+              "children": []
+            },
+            {
+              "name": "和光",
+              "children": []
+            }
+          ],
+          "spouse": "興華"
+        }
+      ]
+    }
+  ],
+  "spouse": "子賢"
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "person_b": "夢潔",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "和悅",
+      "天朗",
+      "愛玲"
+    ],
+    "llm_prediction": "天朗, 愛玲"
+  },
+  {
+    "person_b": "思源",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "和光",
+      "興業"
+    ],
+    "llm_prediction": "和光, 興業"
+  },
+  {
+    "person_b": "秀英",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "子霖"
+    ],
+    "llm_prediction": "子霖"
+  },
+  {
+    "person_b": "子陽",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "和光",
+      "子濤"
+    ],
+    "llm_prediction": "子濤, 興業, 和光"
+  },
+  {
+    "person_b": "秀英",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "和光",
+      "思源",
+      "武雄",
+      "瑞雪",
+      "雅文"
+    ],
+    "llm_prediction": "雅文, 天朗, 愛玲, 和悅, 武雄, 思源"
+  },
+  {
+    "person_b": "武雄",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "子濤",
+      "子霖",
+      "秀英"
+    ],
+    "llm_prediction": "秀英, 子霖"
+  },
+  {
+    "person_b": "武雄",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "夢潔",
+      "子濤",
+      "子陽",
+      "瑞雪"
+    ],
+    "llm_prediction": "子陽,子濤"
+  },
+  {
+    "person_b": "子陽",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "和光",
+      "思源",
+      "武雄",
+      "瑞雪",
+      "雅文"
+    ],
+    "llm_prediction": "和睦, 和光, 天朗, 愛玲, 和悅, 武雄, 思源"
+  },
+  {
+    "person_b": "秀英",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "和悅",
+      "天朗",
+      "思源",
+      "愛玲",
+      "武雄",
+      "雅文"
+    ],
+    "llm_prediction": "雅文,天朗,愛玲,和悅"
+  },
+  {
+    "person_b": "愛玲",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "子霖",
+      "秀英"
+    ],
+    "llm_prediction": "秀英"
+  },
+  {
+    "person_b": "和悅",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "武雄"
+    ],
+    "llm_prediction": "雅文, 天朗, 愛玲, 武雄, 思源"
+  }
+]

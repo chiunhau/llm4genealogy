@@ -1,0 +1,91 @@
+{
+  "name": "玉蘭",
+  "children": [
+    {
+      "name": "長福",
+      "children": []
+    },
+    {
+      "name": "麗華",
+      "children": [
+        {
+          "name": "和悅",
+          "children": [],
+          "spouse": "子豪"
+        },
+        {
+          "name": "和光",
+          "children": []
+        }
+      ],
+      "spouse": "慧敏"
+    },
+    {
+      "name": "和光",
+      "children": [
+        {
+          "name": "子陽",
+          "children": [
+            {
+              "name": "柏森",
+              "children": []
+            },
+            {
+              "name": "雅麗",
+              "children": []
+            },
+            {
+              "name": "子賢",
+              "children": []
+            },
+            {
+              "name": "文靜",
+              "children": [],
+              "spouse": "子軒"
+            }
+          ]
+        },
+        {
+          "name": "美慧",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "思遠",
+      "children": [
+        {
+          "name": "夢瑤",
+          "children": []
+        },
+        {
+          "name": "安國",
+          "children": []
+        },
+        {
+          "name": "夢潔",
+          "children": []
+        },
+        {
+          "name": "安民",
+          "children": []
+        }
+      ],
+      "spouse": "德康"
+    },
+    {
+      "name": "和順",
+      "children": [
+        {
+          "name": "長樂",
+          "children": []
+        },
+        {
+          "name": "永祿",
+          "children": []
+        }
+      ],
+      "spouse": "子輝"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "person_b": "靜宜",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "和睦",
+      "子瑜",
+      "柏森"
+    ],
+    "llm_prediction": "和睦, 永福, 文靜"
+  },
+  {
+    "person_b": "清風",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "思遠",
+      "興業"
+    ],
+    "llm_prediction": "興業, 思遠"
+  },
+  {
+    "person_b": "明達",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "子悅"
+    ],
+    "llm_prediction": "子悅"
+  },
+  {
+    "person_b": "清風",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "子軒"
+    ],
+    "llm_prediction": "子軒"
+  },
+  {
+    "person_b": "星辰",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "和睦",
+      "夢潔",
+      "子瑜",
+      "子輝",
+      "建國",
+      "思齊",
+      "文雅",
+      "曉晴",
+      "柏森",
+      "立民",
+      "雅靜"
+    ],
+    "llm_prediction": "文雅, 夢潔, 子豪, 子輝, 思源, 立民, 子辰, 子瑜, 和睦, 子睿, 柏森, 雅靜"
+  },
+  {
+    "person_b": "富強",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "文靜",
+      "長福"
+    ],
+    "llm_prediction": "ERROR"
+  },
+  {
+    "person_b": "子瑜",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "明賢",
+      "興隆"
+    ],
+    "llm_prediction": "興隆,和光,和悅,和順,興華,明賢"
+  },
+  {
+    "person_b": "明賢",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "和睦",
+      "夢潔",
+      "子瑜",
+      "子輝",
+      "建國",
+      "思齊",
+      "文雅",
+      "柏森",
+      "立民",
+      "雅靜"
+    ],
+    "llm_prediction": "夢潔, 立民, 思源, 子瑜, 永福, 柏森, 子睿, 雅靜, 思齊, 建國"
+  },
+  {
+    "person_b": "麗華",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "和平",
+      "子濤",
+      "子陽",
+      "文傑",
+      "文秀",
+      "永安",
+      "永芳",
+      "美慧",
+      "興業",
+      "興盛",
+      "長福"
+    ],
+    "llm_prediction": "子輝, 子豪, 文傑, 文秀, 子陽, 長福, 興業, 永芳, 和平, 永安, 興盛"
+  },
+  {
+    "person_b": "長福",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "星辰",
+      "麗華"
+    ],
+    "llm_prediction": "星辰, 麗華"
+  },
+  {
+    "person_b": "夢潔",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "和睦",
+      "立民",
+      "雅靜"
+    ],
+    "llm_prediction": "思源, 立民, 子辰, 子瑜, 永福, 和睦, 子睿, 柏森, 雅靜, 思齊, 建國, 曉晴"
+  }
+]

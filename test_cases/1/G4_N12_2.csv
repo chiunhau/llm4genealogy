@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+愛玲,夢潔,CHILD
+興業,思源,PARENT
+子霖,秀英,SPOUSE
+和光,子陽,SIBLING
+武雄,秀英,GRANDCHILD
+子霖,武雄,GRANDPARENT
+子濤,武雄,UNCLE_OR_AUNT
+思源,子陽,NEPHEW_OR_NIECE
+和悅,秀英,GREAT_GRANDCHILD
+子霖,愛玲,GREAT_GRANDPARENT
+武雄,和悅,COUSIN

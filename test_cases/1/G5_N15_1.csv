@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+明月,星辰,CHILD
+子豪,星辰,PARENT
+思賢,思齊,SPOUSE
+立民,子霖,SIBLING
+永祿,思遠,GRANDCHILD
+麗華,思齊,GRANDPARENT
+瑞雪,夢潔,UNCLE_OR_AUNT
+夢潔,思遠,NEPHEW_OR_NIECE
+和悅,子霖,GREAT_GRANDCHILD
+慧敏,明月,GREAT_GRANDPARENT
+和悅,明月,COUSIN

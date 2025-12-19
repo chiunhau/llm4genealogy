@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+和光,安民,CHILD
+思遠,興華,PARENT
+思齊,柏森,SPOUSE
+子琪,子辰,SIBLING
+興邦,思遠,GRANDCHILD
+永祿,柏森,GRANDPARENT
+思遠,子琪,UNCLE_OR_AUNT
+興邦,興華,NEPHEW_OR_NIECE
+和光,思遠,GREAT_GRANDCHILD
+思遠,子謙,GREAT_GRANDPARENT
+子軒,子陽,COUSIN

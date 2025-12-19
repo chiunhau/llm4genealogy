@@ -1,0 +1,75 @@
+{
+  "name": "美慧",
+  "children": [
+    {
+      "name": "永安",
+      "children": [
+        {
+          "name": "子輝",
+          "children": []
+        },
+        {
+          "name": "子涵",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "雅麗",
+      "children": [
+        {
+          "name": "子琪",
+          "children": [
+            {
+              "name": "思遠",
+              "children": [],
+              "spouse": "思源"
+            }
+          ],
+          "spouse": "明正"
+        },
+        {
+          "name": "靜宜",
+          "children": [
+            {
+              "name": "建國",
+              "children": [
+                {
+                  "name": "德康",
+                  "children": []
+                }
+              ],
+              "spouse": "富強"
+            },
+            {
+              "name": "麗華",
+              "children": [
+                {
+                  "name": "秀英",
+                  "children": []
+                },
+                {
+                  "name": "興邦",
+                  "children": []
+                }
+              ],
+              "spouse": "長青"
+            },
+            {
+              "name": "和順",
+              "children": [
+                {
+                  "name": "柏林",
+                  "children": []
+                }
+              ],
+              "spouse": "和光"
+            }
+          ],
+          "spouse": "永祿"
+        }
+      ]
+    }
+  ],
+  "spouse": "長福"
+}

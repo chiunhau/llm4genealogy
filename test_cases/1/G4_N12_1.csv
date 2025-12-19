@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+安邦,子睿,CHILD
+思賢,星辰,PARENT
+思遠,永芳,SPOUSE
+愛玲,興邦,SIBLING
+靜宜,永芳,GRANDCHILD
+永芳,靜宜,GRANDPARENT
+子睿,星辰,UNCLE_OR_AUNT
+雅麗,靜宜,NEPHEW_OR_NIECE
+麗華,永芳,GREAT_GRANDCHILD
+永芳,雅麗,GREAT_GRANDPARENT
+星辰,安邦,COUSIN

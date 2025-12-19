@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+長福,子睿,CHILD
+子睿,曉晴,PARENT
+明達,建國,SPOUSE
+子賢,子辰,SIBLING
+子瑜,興盛,GRANDCHILD
+興盛,思賢,GRANDPARENT
+明正,子涵,UNCLE_OR_AUNT
+子涵,子辰,NEPHEW_OR_NIECE
+長福,建國,GREAT_GRANDCHILD
+興盛,美慧,GREAT_GRANDPARENT
+星辰,建國,COUSIN

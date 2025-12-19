@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+武雄,安國,CHILD
+和順,愛玲,PARENT
+明智,柏林,SPOUSE
+清風,柏森,SIBLING
+和平,安邦,GRANDCHILD
+和順,子晨,GRANDPARENT
+文秀,建國,UNCLE_OR_AUNT
+子輝,夢瑤,NEPHEW_OR_NIECE
+子賢,興業,GREAT_GRANDCHILD
+安國,夢瑤,GREAT_GRANDPARENT
+雅麗,興隆,COUSIN

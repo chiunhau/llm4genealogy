@@ -1,0 +1,107 @@
+[
+  {
+    "person_b": "雅靜",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "天朗",
+      "文莉",
+      "永祿",
+      "立民"
+    ]
+  },
+  {
+    "person_b": "子睿",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "明智",
+      "明月"
+    ]
+  },
+  {
+    "person_b": "子謙",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "思賢"
+    ]
+  },
+  {
+    "person_b": "子墨",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "明月",
+      "柏森",
+      "興業",
+      "靜宜"
+    ]
+  },
+  {
+    "person_b": "靜宜",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "雅文"
+    ]
+  },
+  {
+    "person_b": "文莉",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "和平",
+      "子豪"
+    ]
+  },
+  {
+    "person_b": "和光",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "子墨",
+      "子濤",
+      "柏森",
+      "靜宜"
+    ]
+  },
+  {
+    "person_b": "子墨",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "和光",
+      "和順",
+      "天朗",
+      "子睿",
+      "子謙",
+      "文莉",
+      "永祿",
+      "玉蘭",
+      "立民",
+      "興盛",
+      "麗華"
+    ]
+  },
+  {
+    "person_b": "子豪",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "子軒",
+      "子霖",
+      "慧敏",
+      "明正",
+      "雅文"
+    ]
+  },
+  {
+    "person_b": "明正",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "和平",
+      "子豪"
+    ]
+  },
+  {
+    "person_b": "興盛",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "子睿",
+      "永祿",
+      "立民"
+    ]
+  }
+]

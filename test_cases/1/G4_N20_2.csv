@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+興邦,和平,CHILD
+文靜,德康,PARENT
+子陽,文雅,SPOUSE
+永安,子軒,SIBLING
+天朗,子陽,GRANDCHILD
+文靜,慧敏,GRANDPARENT
+德康,興盛,UNCLE_OR_AUNT
+慧敏,子軒,NEPHEW_OR_NIECE
+興邦,文靜,GREAT_GRANDCHILD
+文靜,興邦,GREAT_GRANDPARENT
+星辰,夢潔,COUSIN

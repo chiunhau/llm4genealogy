@@ -1,0 +1,106 @@
+{
+  "name": "思賢",
+  "children": [
+    {
+      "name": "曉晴",
+      "children": [
+        {
+          "name": "立民",
+          "children": [
+            {
+              "name": "子睿",
+              "children": [
+                {
+                  "name": "明賢",
+                  "children": [
+                    {
+                      "name": "明智",
+                      "children": []
+                    }
+                  ],
+                  "spouse": "和平"
+                }
+              ]
+            },
+            {
+              "name": "子賢",
+              "children": []
+            }
+          ],
+          "spouse": "長青"
+        }
+      ],
+      "spouse": "文靜"
+    },
+    {
+      "name": "興盛",
+      "children": [
+        {
+          "name": "長樂",
+          "children": []
+        },
+        {
+          "name": "雅文",
+          "children": [
+            {
+              "name": "安康",
+              "children": []
+            }
+          ],
+          "spouse": "柏森"
+        }
+      ],
+      "spouse": "星辰"
+    },
+    {
+      "name": "富強",
+      "children": [
+        {
+          "name": "興隆",
+          "children": [
+            {
+              "name": "子陽",
+              "children": []
+            },
+            {
+              "name": "麗華",
+              "children": [
+                {
+                  "name": "文雅",
+                  "children": [
+                    {
+                      "name": "子濤",
+                      "children": [
+                        {
+                          "name": "文傑",
+                          "children": []
+                        },
+                        {
+                          "name": "愛玲",
+                          "children": []
+                        }
+                      ],
+                      "spouse": "子琪"
+                    },
+                    {
+                      "name": "和光",
+                      "children": []
+                    }
+                  ],
+                  "spouse": "武雄"
+                }
+              ]
+            },
+            {
+              "name": "安民",
+              "children": []
+            }
+          ],
+          "spouse": "秀英"
+        }
+      ],
+      "spouse": "子豪"
+    }
+  ],
+  "spouse": "安邦"
+}

@@ -1,0 +1,25 @@
+person_a,person_b,relationship_type,llm_prediction
+清風,雅靜,CHILD,CHILD
+慧敏,子輝,PARENT,PARENT
+子瑜,永祿,SPOUSE,SIBLING
+文傑,武雄,SIBLING,NEPHEW_OR_NIECE
+子軒,和悅,GRANDCHILD,GRANDCHILD
+雅靜,和光,GRANDPARENT,"Based on the provided family tree:
+
+1.  **Locate Person A (雅靜):** 雅靜 is at the very top of the family tree, representing the first generation (Gen 1) alongside 愛玲.
+2.  **Locate Person B (和光):** Following the branches down from the top:
+    *   雅靜 and 愛玲 have several children, one of whom is **清風** (Gen 2).
+    *   清風 is paired with 永芳, and their children are listed below them.
+    *   Under the horizontal bar for 清風 and 永芳's children, there are three names: 思齊, 子琪, and **和光**.
+3.  **Determine the relationship:**
+    *   Since 清風 is the child of 雅靜, and 和光 is the child of 清風, 和光 is the **grandchild** of 雅靜.
+    *   Conversely, Person A (雅靜) is the **grandparent** of Person B (和光).
+
+According to the instructions, the answer should be the relationship from the perspective of ""Person A is Person B's [relationship]"".
+
+GRANDPARENT"
+子瑜,雅麗,UNCLE_OR_AUNT,UNCLE_OR_AUNT
+雅麗,永祿,NEPHEW_OR_NIECE,NEPHEW_OR_NIECE
+興盛,和悅,GREAT_GRANDCHILD,GREAT_GRANDCHILD
+和平,文靜,GREAT_GRANDPARENT,GREAT_GRANDPARENT
+和順,和光,COUSIN,Person A is Person B's GRANDPARENT

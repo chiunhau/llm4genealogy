@@ -1,0 +1,116 @@
+[
+  {
+    "person_b": "瑞雪",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "文雅",
+      "明正"
+    ],
+    "llm_prediction": "明賢, 清風, 明正, 文雅"
+  },
+  {
+    "person_b": "文雅",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "瑞雪"
+    ],
+    "llm_prediction": "瑞雪"
+  },
+  {
+    "person_b": "和悅",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "子瑜"
+    ],
+    "llm_prediction": "子瑜"
+  },
+  {
+    "person_b": "子琪",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "永祿"
+    ],
+    "llm_prediction": "永祿"
+  },
+  {
+    "person_b": "瑞雪",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子晨",
+      "子琪",
+      "子輝",
+      "明達",
+      "永祿",
+      "興盛"
+    ],
+    "llm_prediction": "子晨, 子濤, 子輝, 子琪, 麗華"
+  },
+  {
+    "person_b": "思齊",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "明智",
+      "永福"
+    ],
+    "llm_prediction": "明智,永福"
+  },
+  {
+    "person_b": "明智",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "子晨",
+      "子賢",
+      "子輝",
+      "思源",
+      "興業",
+      "興盛"
+    ],
+    "llm_prediction": "子晨, 子賢, 子輝, 興業, 興盛, 思源"
+  },
+  {
+    "person_b": "興業",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "文秀",
+      "明智",
+      "武雄",
+      "永芳",
+      "長福"
+    ],
+    "llm_prediction": "子晨, 子濤, 明達, 思源, 興盛"
+  },
+  {
+    "person_b": "明達",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "夢瑤",
+      "子瑜",
+      "安邦",
+      "思齊",
+      "明珠",
+      "靜宜"
+    ],
+    "llm_prediction": "夢瑤, 子瑜, 明珠, 安國, 思齊, 安邦, 靜宜"
+  },
+  {
+    "person_b": "明珠",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "子濤",
+      "明達"
+    ],
+    "llm_prediction": "明達, 子濤"
+  },
+  {
+    "person_b": "子瑜",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "夢瑤",
+      "安邦",
+      "思齊",
+      "明珠",
+      "靜宜"
+    ],
+    "llm_prediction": "夢瑤, 明珠, 安國, 思齊, 安邦, 靜宜"
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "name": "子濤",
+  "children": [
+    {
+      "name": "子賢",
+      "children": [
+        {
+          "name": "永祿",
+          "children": []
+        }
+      ],
+      "spouse": "子陽"
+    },
+    {
+      "name": "明智",
+      "children": [
+        {
+          "name": "子悅",
+          "children": []
+        },
+        {
+          "name": "美慧",
+          "children": [],
+          "spouse": "天朗"
+        },
+        {
+          "name": "思遠",
+          "children": [
+            {
+              "name": "文靜",
+              "children": [],
+              "spouse": "子晨"
+            },
+            {
+              "name": "興邦",
+              "children": [],
+              "spouse": "和順"
+            },
+            {
+              "name": "雅麗",
+              "children": []
+            }
+          ],
+          "spouse": "子睿"
+        }
+      ],
+      "spouse": "安康"
+    },
+    {
+      "name": "和睦",
+      "children": []
+    },
+    {
+      "name": "星辰",
+      "children": [
+        {
+          "name": "和順",
+          "children": []
+        },
+        {
+          "name": "秀英",
+          "children": [
+            {
+              "name": "文秀",
+              "children": []
+            }
+          ],
+          "spouse": "興隆"
+        },
+        {
+          "name": "富強",
+          "children": [
+            {
+              "name": "安國",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "愛玲",
+          "children": []
+        },
+        {
+          "name": "柏林",
+          "children": []
+        }
+      ],
+      "spouse": "長樂"
+    },
+    {
+      "name": "和光",
+      "children": []
+    }
+  ],
+  "spouse": "和悅"
+}

@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+玉蘭,柏森,CHILD
+德康,秀英,PARENT
+玉蘭,子墨,SPOUSE
+明賢,興邦,SIBLING
+明達,永祿,GRANDCHILD
+思源,子悅,GRANDPARENT
+文秀,慧敏,UNCLE_OR_AUNT
+明月,子霖,NEPHEW_OR_NIECE
+明智,思源,GREAT_GRANDCHILD
+思源,秀英,GREAT_GRANDPARENT
+秀英,子涵,COUSIN

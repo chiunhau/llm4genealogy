@@ -1,0 +1,116 @@
+[
+  {
+    "person_b": "長青",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "和光",
+      "思齊"
+    ],
+    "llm_prediction": "思齊, 和光"
+  },
+  {
+    "person_b": "雅麗",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "愛玲",
+      "明賢"
+    ],
+    "llm_prediction": "愛玲, 興華"
+  },
+  {
+    "person_b": "興盛",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "曉晴"
+    ],
+    "llm_prediction": "曉晴"
+  },
+  {
+    "person_b": "天朗",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "夢瑤",
+      "永福"
+    ],
+    "llm_prediction": "夢瑤"
+  },
+  {
+    "person_b": "興盛",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "和平",
+      "子瑜",
+      "子輝",
+      "安國",
+      "思遠",
+      "文靜"
+    ],
+    "llm_prediction": "子輝, 文靜, 思遠, 安國, 子瑜"
+  },
+  {
+    "person_b": "思齊",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "靜宜"
+    ],
+    "llm_prediction": "靜宜, 長青"
+  },
+  {
+    "person_b": "子瑜",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "子墨",
+      "思源",
+      "明珠"
+    ],
+    "llm_prediction": "思源, 明正, 和平, 明智, 星辰, 明達, 興華, 武雄"
+  },
+  {
+    "person_b": "子墨",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "和平",
+      "子瑜",
+      "安國",
+      "思遠",
+      "文靜"
+    ],
+    "llm_prediction": "文靜,思遠,子瑜,安國"
+  },
+  {
+    "person_b": "子琪",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "和平",
+      "和順",
+      "子瑜",
+      "子輝",
+      "安國",
+      "思遠",
+      "文靜",
+      "明智",
+      "星辰",
+      "玉蘭",
+      "興華"
+    ],
+    "llm_prediction": "安康, 雅文, 子涵, 愛玲, 子輝, 文靜, 思遠, 安國, 富強, 思齊, 和光"
+  },
+  {
+    "person_b": "子瑜",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "子琪",
+      "麗華"
+    ],
+    "llm_prediction": "曉晴, 興盛"
+  },
+  {
+    "person_b": "明正",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "和睦",
+      "靜宜"
+    ],
+    "llm_prediction": "和睦, 和光, 靜宜"
+  }
+]

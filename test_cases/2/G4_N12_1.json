@@ -1,0 +1,95 @@
+[
+  {
+    "person_b": "子睿",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "安邦"
+    ]
+  },
+  {
+    "person_b": "星辰",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "思賢",
+      "明月"
+    ]
+  },
+  {
+    "person_b": "永芳",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "思遠"
+    ]
+  },
+  {
+    "person_b": "興邦",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "愛玲",
+      "星辰",
+      "靜宜"
+    ]
+  },
+  {
+    "person_b": "永芳",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "安邦",
+      "愛玲",
+      "星辰",
+      "興邦",
+      "靜宜"
+    ]
+  },
+  {
+    "person_b": "靜宜",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "思遠",
+      "永芳"
+    ]
+  },
+  {
+    "person_b": "星辰",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "子睿",
+      "文傑"
+    ]
+  },
+  {
+    "person_b": "靜宜",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "思齊",
+      "立民",
+      "雅麗",
+      "麗華"
+    ]
+  },
+  {
+    "person_b": "永芳",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "思齊",
+      "立民",
+      "雅麗",
+      "麗華"
+    ]
+  },
+  {
+    "person_b": "雅麗",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "思遠",
+      "永芳"
+    ]
+  },
+  {
+    "person_b": "安邦",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "星辰"
+    ]
+  }
+]

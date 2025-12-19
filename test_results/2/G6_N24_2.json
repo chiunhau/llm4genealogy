@@ -1,0 +1,111 @@
+[
+  {
+    "person_b": "思齊",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "子霖"
+    ],
+    "llm_prediction": "NOT_FOUND"
+  },
+  {
+    "person_b": "子琪",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "安邦"
+    ],
+    "llm_prediction": "安邦, 興華"
+  },
+  {
+    "person_b": "秀英",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "永芳"
+    ],
+    "llm_prediction": "永芳"
+  },
+  {
+    "person_b": "文雅",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "子墨",
+      "立民",
+      "美慧"
+    ],
+    "llm_prediction": "子墨, 美慧, 立民"
+  },
+  {
+    "person_b": "明正",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子琪",
+      "文莉",
+      "曉晴",
+      "瑞雪",
+      "長青"
+    ],
+    "llm_prediction": "曉晴, 瑞雪, 子琪, 文莉, 長青"
+  },
+  {
+    "person_b": "瑞雪",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "明智",
+      "明正"
+    ],
+    "llm_prediction": "明正, 明智"
+  },
+  {
+    "person_b": "美慧",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "永安",
+      "永芳",
+      "秀英"
+    ],
+    "llm_prediction": "永安, 永芳"
+  },
+  {
+    "person_b": "永安",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子墨",
+      "文雅",
+      "立民",
+      "美慧"
+    ],
+    "llm_prediction": "子墨, 文雅, 美慧, 立民"
+  },
+  {
+    "person_b": "明正",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "和順",
+      "子霖",
+      "富強",
+      "明珠",
+      "永安",
+      "永芳",
+      "玉蘭",
+      "靜宜"
+    ],
+    "llm_prediction": "永安, 靜宜, 永芳, 明珠, 富強, 和順, 玉蘭, 子霖"
+  },
+  {
+    "person_b": "興業",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "天朗",
+      "曉晴"
+    ],
+    "llm_prediction": "ERROR"
+  },
+  {
+    "person_b": "和順",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "明珠",
+      "靜宜"
+    ],
+    "llm_prediction": "永安, 靜宜, 永芳, 明珠, 富強, 玉蘭, 子霖"
+  }
+]

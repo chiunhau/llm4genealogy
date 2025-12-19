@@ -1,0 +1,90 @@
+{
+  "name": "德康",
+  "children": [
+    {
+      "name": "文雅",
+      "children": [
+        {
+          "name": "思齊",
+          "children": []
+        },
+        {
+          "name": "文靜",
+          "children": []
+        }
+      ],
+      "spouse": "和睦"
+    },
+    {
+      "name": "和光",
+      "children": [
+        {
+          "name": "永祿",
+          "children": [],
+          "spouse": "和悅"
+        },
+        {
+          "name": "子豪",
+          "children": [
+            {
+              "name": "永安",
+              "children": []
+            }
+          ],
+          "spouse": "子瑜"
+        }
+      ],
+      "spouse": "思源"
+    },
+    {
+      "name": "瑞雪",
+      "children": [
+        {
+          "name": "子晨",
+          "children": [
+            {
+              "name": "柏森",
+              "children": [
+                {
+                  "name": "明賢",
+                  "children": [
+                    {
+                      "name": "子陽",
+                      "children": []
+                    },
+                    {
+                      "name": "明正",
+                      "children": []
+                    },
+                    {
+                      "name": "明達",
+                      "children": [],
+                      "spouse": "安國"
+                    },
+                    {
+                      "name": "子涵",
+                      "children": []
+                    }
+                  ],
+                  "spouse": "和順"
+                }
+              ],
+              "spouse": "雅文"
+            }
+          ],
+          "spouse": "安康"
+        },
+        {
+          "name": "興隆",
+          "children": []
+        },
+        {
+          "name": "子辰",
+          "children": []
+        }
+      ],
+      "spouse": "秀英"
+    }
+  ],
+  "spouse": "靜宜"
+}

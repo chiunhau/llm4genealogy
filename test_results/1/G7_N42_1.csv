@@ -1,0 +1,31 @@
+person_a,person_b,relationship_type,llm_prediction
+瑞雪,和順,CHILD,CHILD
+興華,明賢,PARENT,PARENT
+雅文,長福,SPOUSE,SIBLING
+文雅,興業,SIBLING,SIBLING
+明賢,永安,GRANDCHILD,GRANDCHILD
+子賢,思源,GRANDPARENT,"Based on the provided family tree, we can trace the relationship between **子賢 (Person A)** and **思源 (Person B)** as follows:
+
+1.  **Identify 思源 (Person B):** 思源 is located in the bottom middle of the chart. Trace upwards:
+    *   思源's parent is **子悅**.
+    *   子悅's parent is **永祿** (and spouse 德康).
+    *   **永祿** is in the generation above 子悅.
+
+2.  **Identify 子賢 (Person A):** 子賢 is located to the left of 永祿. Trace upwards:
+    *   Both **子賢** and **永祿** are connected to a horizontal bar that comes from a vertical line under **思賢** and **美慧**.
+    *   This indicates that **子賢** and **永祿** are siblings.
+
+3.  **Determine the Relationship:**
+    *   子賢 is the **sibling** of 思源's grandmother/grandfather (**永祿**).
+    *   This makes 子賢 the **great-uncle** of 思源.
+
+4.  **Match with Allowed Categories:**
+    *   The provided categories are: CHILD, SPOUSE, PARENT, SIBLING, GRANDCHILD, GRANDPARENT, GREAT_GRANDCHILD, GREAT_GRANDPARENT, UNCLE_OR_AUNT, NEPHEW_OR_NIECE, COUSIN.
+    *   ""Great-uncle"" is not listed as a specific option. While it is a type of uncle-like relationship, the prompt specifies to reply ""OTHER"" if the relationship is found but not in the specific list or if one is not sure. Given that ""GREAT_GRANDPARENT"" is an option but ""GREAT_UNCLE"" is not, ""OTHER"" is the most appropriate response for a relationship not represented in the list.
+
+OTHER"
+永福,文傑,UNCLE_OR_AUNT,UNCLE_OR_AUNT
+清風,安民,NEPHEW_OR_NIECE,NEPHEW_OR_NIECE
+雅靜,子濤,GREAT_GRANDCHILD,GREAT_GRANDCHILD
+思賢,瑞雪,GREAT_GRANDPARENT,GREAT_GRANDPARENT
+文傑,秀英,COUSIN,COUSIN

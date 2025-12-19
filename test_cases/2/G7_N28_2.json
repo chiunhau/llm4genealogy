@@ -1,0 +1,95 @@
+[
+  {
+    "person_b": "永芳",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "和悅",
+      "慧敏"
+    ]
+  },
+  {
+    "person_b": "和悅",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "子濤",
+      "永芳"
+    ]
+  },
+  {
+    "person_b": "子涵",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "德康"
+    ]
+  },
+  {
+    "person_b": "子瑜",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "文靜",
+      "美慧",
+      "興盛"
+    ]
+  },
+  {
+    "person_b": "和睦",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子瑜",
+      "文靜",
+      "美慧",
+      "興盛"
+    ]
+  },
+  {
+    "person_b": "和悅",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "和光",
+      "永安"
+    ]
+  },
+  {
+    "person_b": "興盛",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "思源",
+      "明賢"
+    ]
+  },
+  {
+    "person_b": "永安",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "和睦"
+    ]
+  },
+  {
+    "person_b": "麗華",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "和悅",
+      "德康",
+      "愛玲",
+      "慧敏",
+      "明賢",
+      "明達",
+      "興邦"
+    ]
+  },
+  {
+    "person_b": "美慧",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "子琪",
+      "子謙"
+    ]
+  },
+  {
+    "person_b": "曉晴",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "文傑"
+    ]
+  }
+]

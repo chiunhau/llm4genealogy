@@ -1,0 +1,114 @@
+[
+  {
+    "person_b": "長樂",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "思賢",
+      "興邦"
+    ],
+    "llm_prediction": "思賢, 興邦"
+  },
+  {
+    "person_b": "長樂",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "和順"
+    ],
+    "llm_prediction": "思源, 和順"
+  },
+  {
+    "person_b": "夢潔",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "子陽"
+    ],
+    "llm_prediction": "子陽"
+  },
+  {
+    "person_b": "長樂",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "慧敏",
+      "靜宜"
+    ],
+    "llm_prediction": "慧敏, 靜宜"
+  },
+  {
+    "person_b": "夢潔",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子豪",
+      "思齊"
+    ],
+    "llm_prediction": "思齊, 子豪"
+  },
+  {
+    "person_b": "長樂",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "和平",
+      "子涵"
+    ],
+    "llm_prediction": "和平, 子涵"
+  },
+  {
+    "person_b": "安邦",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "瑞雪",
+      "長樂"
+    ],
+    "llm_prediction": "長樂, 瑞雪, 靜宜"
+  },
+  {
+    "person_b": "長樂",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子謙",
+      "安邦",
+      "思遠",
+      "文靜"
+    ],
+    "llm_prediction": "柏林, 安邦, 文靜, 富強, 思遠, 子謙, 曉晴, 麗華"
+  },
+  {
+    "person_b": "子涵",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "子謙",
+      "子豪",
+      "安邦",
+      "富強",
+      "思賢",
+      "思遠",
+      "思齊",
+      "文靜",
+      "曉晴",
+      "柏林",
+      "永安",
+      "興邦",
+      "麗華"
+    ],
+    "llm_prediction": "思賢, 興邦, 柏林, 安邦, 文靜, 富強, 思遠, 子謙, 曉晴, 麗華, 思齊, 子豪,"
+  },
+  {
+    "person_b": "富強",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "和平",
+      "子涵"
+    ],
+    "llm_prediction": "子涵, 和平"
+  },
+  {
+    "person_b": "思賢",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "子謙",
+      "安邦",
+      "思遠",
+      "文靜"
+    ],
+    "llm_prediction": "柏林, 安邦, 文靜, 富強, 思遠, 子謙, 曉晴, 麗華"
+  }
+]

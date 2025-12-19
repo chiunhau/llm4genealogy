@@ -1,0 +1,120 @@
+[
+  {
+    "person_b": "和悅",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "思賢",
+      "思齊",
+      "星辰",
+      "柏林",
+      "永福"
+    ],
+    "llm_prediction": "思齊, 柏林, 思賢, 星辰, 永福"
+  },
+  {
+    "person_b": "子輝",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "思賢",
+      "長青"
+    ],
+    "llm_prediction": "長青, 思賢"
+  },
+  {
+    "person_b": "和光",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "柏森"
+    ],
+    "llm_prediction": "柏森"
+  },
+  {
+    "person_b": "長福",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "思遠"
+    ],
+    "llm_prediction": "思遠"
+  },
+  {
+    "person_b": "和悅",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子悅",
+      "子睿",
+      "子輝",
+      "安民",
+      "文雅",
+      "玉蘭",
+      "長樂"
+    ],
+    "llm_prediction": "玉蘭, 子睿, 子悅, 長樂, 文雅, 子輝, 安民"
+  },
+  {
+    "person_b": "子悅",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "和悅"
+    ],
+    "llm_prediction": "和悅"
+  },
+  {
+    "person_b": "明智",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "和光",
+      "和悅",
+      "明珠",
+      "明達",
+      "柏森",
+      "興盛"
+    ],
+    "llm_prediction": "和悅, 明珠, 興盛, 和光, 柏森, 明達"
+  },
+  {
+    "person_b": "明珠",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子賢",
+      "思遠",
+      "思齊",
+      "明智",
+      "星辰"
+    ],
+    "llm_prediction": "思齊, 柏林, 思賢, 星辰, 永福, 思遠, 長福, 明智, 子賢"
+  },
+  {
+    "person_b": "文靜",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "子悅",
+      "子睿",
+      "子輝",
+      "安民",
+      "文傑",
+      "文雅",
+      "玉蘭",
+      "長樂"
+    ],
+    "llm_prediction": "玉蘭, 子睿, 子悅, 長樂, 文雅, 子輝, 安民, 文莉, 文傑"
+  },
+  {
+    "person_b": "子睿",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "文靜",
+      "興華"
+    ],
+    "llm_prediction": "文靜, 興華"
+  },
+  {
+    "person_b": "文雅",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "子睿",
+      "安民",
+      "玉蘭"
+    ],
+    "llm_prediction": "玉蘭, 子睿"
+  }
+]

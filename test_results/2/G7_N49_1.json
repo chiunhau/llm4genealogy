@@ -1,0 +1,115 @@
+[
+  {
+    "person_b": "文傑",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "和光",
+      "思齊",
+      "永芳"
+    ],
+    "llm_prediction": "永芳, 和光, 思齊"
+  },
+  {
+    "person_b": "子睿",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "子霖",
+      "興邦"
+    ],
+    "llm_prediction": "興邦, 子霖"
+  },
+  {
+    "person_b": "明正",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "明智"
+    ],
+    "llm_prediction": "明智, 明珠"
+  },
+  {
+    "person_b": "永安",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "子晨",
+      "子琪",
+      "思遠",
+      "曉晴",
+      "雅文"
+    ],
+    "llm_prediction": "思遠, 子琪, 安民, 雅文, 曉晴"
+  },
+  {
+    "person_b": "永祿",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子豪",
+      "安國",
+      "富強",
+      "建國"
+    ],
+    "llm_prediction": "富強, 建國, 子豪"
+  },
+  {
+    "person_b": "子墨",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "子琪",
+      "安邦"
+    ],
+    "llm_prediction": "興邦, 子霖"
+  },
+  {
+    "person_b": "和平",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "子悅",
+      "子謙"
+    ],
+    "llm_prediction": "子悅, 子謙, 天朗"
+  },
+  {
+    "person_b": "永福",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "和順",
+      "子賢",
+      "思源",
+      "星辰"
+    ],
+    "llm_prediction": "星辰, 和順, 思源"
+  },
+  {
+    "person_b": "雅靜",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "子涵",
+      "子辰",
+      "子陽",
+      "文傑",
+      "文靜",
+      "興盛"
+    ],
+    "llm_prediction": "子陽, 興盛, 安寧, 玉蘭"
+  },
+  {
+    "person_b": "永芳",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "文傑",
+      "曉晴",
+      "柏林",
+      "美慧"
+    ],
+    "llm_prediction": "曉晴, 柏林"
+  },
+  {
+    "person_b": "子陽",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "子涵",
+      "子辰",
+      "文傑"
+    ],
+    "llm_prediction": "子辰, 夢瑤, 安寧, 玉蘭"
+  }
+]

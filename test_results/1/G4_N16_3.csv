@@ -1,0 +1,21 @@
+person_a,person_b,relationship_type,llm_prediction
+靜宜,富強,CHILD,CHILD
+興華,安民,PARENT,PARENT
+靜宜,雅麗,SPOUSE,SIBLING
+和光,子悅,SIBLING,SIBLING
+子睿,文莉,GRANDCHILD,GRANDCHILD
+愛玲,和光,GRANDPARENT,"Based on the family tree provided:
+
+1.  **Locate Person A (愛玲):** She is in the second generation (the first row of siblings), on the far left. She is married to 富強.
+2.  **Locate Person B (和光):** There are two individuals named ""和光"" in this tree. However, one is directly in the lineage of 愛玲. Following that branch:
+    *   愛玲 is the parent of **子睿**.
+    *   子睿 is the parent of **和光**.
+3.  **Determine the relationship:** Since 愛玲 is the parent of 和光's parent (子睿), 愛玲 is the grandmother of 和光.
+
+Following the requested format:
+**GRANDPARENT**"
+瑞雪,子陽,UNCLE_OR_AUNT,UNCLE_OR_AUNT
+和悅,興業,NEPHEW_OR_NIECE,NEPHEW_OR_NIECE
+明月,文莉,GREAT_GRANDCHILD,GREAT_GRANDCHILD
+興華,明月,GREAT_GRANDPARENT,OTHER
+靜宜,武雄,COUSIN,COUSIN

@@ -1,0 +1,114 @@
+[
+  {
+    "person_b": "興隆",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "子辰",
+      "秀英"
+    ],
+    "llm_prediction": "建國, 子晨, 天朗, 子辰, 愛玲, 秀英"
+  },
+  {
+    "person_b": "靜宜",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "子謙",
+      "明賢"
+    ],
+    "llm_prediction": "子睿, 雅文"
+  },
+  {
+    "person_b": "子陽",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "子涵"
+    ],
+    "llm_prediction": "NOT_FOUND"
+  },
+  {
+    "person_b": "和順",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "夢瑤",
+      "富強",
+      "興業"
+    ],
+    "llm_prediction": "瑞雪, 夢瑤, 富強, 思賢"
+  },
+  {
+    "person_b": "明賢",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "和順",
+      "夢瑤",
+      "富強",
+      "興業"
+    ],
+    "llm_prediction": "瑞雪, 夢瑤, 和順, 思賢, 富強"
+  },
+  {
+    "person_b": "子墨",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "明正",
+      "興隆"
+    ],
+    "llm_prediction": "子琪, 安民, 秀英"
+  },
+  {
+    "person_b": "長青",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "德康",
+      "美慧"
+    ],
+    "llm_prediction": "明達, 和悅, 安民"
+  },
+  {
+    "person_b": "雅靜",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子睿",
+      "安寧"
+    ],
+    "llm_prediction": "柏林, 清風, 子霖"
+  },
+  {
+    "person_b": "興隆",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "子睿",
+      "子霖",
+      "安寧",
+      "慧敏",
+      "文傑",
+      "明賢",
+      "永安",
+      "永祿",
+      "清風",
+      "興華",
+      "長福",
+      "長青",
+      "麗華"
+    ],
+    "llm_prediction": "安寧, 武雄, 思源, 興邦, 柏森, 瑞雪, 富強, 和順, 子涵, 長福, 清風, 安國,"
+  },
+  {
+    "person_b": "安寧",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "明正",
+      "興隆"
+    ],
+    "llm_prediction": "興隆, 明正"
+  },
+  {
+    "person_b": "慧敏",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "文傑",
+      "永祿"
+    ],
+    "llm_prediction": "德康, 美慧, 和悅, 永安, 永祿"
+  }
+]

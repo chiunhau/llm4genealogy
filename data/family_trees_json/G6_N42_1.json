@@ -1,0 +1,209 @@
+{
+  "name": "麗華",
+  "children": [
+    {
+      "name": "興隆",
+      "children": []
+    },
+    {
+      "name": "和光",
+      "children": [
+        {
+          "name": "文雅",
+          "children": []
+        },
+        {
+          "name": "夢潔",
+          "children": []
+        },
+        {
+          "name": "子輝",
+          "children": [
+            {
+              "name": "子濤",
+              "children": []
+            }
+          ],
+          "spouse": "子豪"
+        }
+      ]
+    },
+    {
+      "name": "和順",
+      "children": [
+        {
+          "name": "立民",
+          "children": [
+            {
+              "name": "文傑",
+              "children": [
+                {
+                  "name": "武雄",
+                  "children": [],
+                  "spouse": "子琪"
+                },
+                {
+                  "name": "永祿",
+                  "children": [],
+                  "spouse": "雅麗"
+                }
+              ],
+              "spouse": "明月"
+            }
+          ],
+          "spouse": "思源"
+        }
+      ],
+      "spouse": "和悅"
+    },
+    {
+      "name": "靜宜",
+      "children": [
+        {
+          "name": "子瑜",
+          "children": [
+            {
+              "name": "美慧",
+              "children": [
+                {
+                  "name": "柏林",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "文秀",
+              "children": []
+            },
+            {
+              "name": "子陽",
+              "children": []
+            }
+          ],
+          "spouse": "子辰"
+        },
+        {
+          "name": "和睦",
+          "children": [
+            {
+              "name": "長福",
+              "children": [
+                {
+                  "name": "安邦",
+                  "children": [
+                    {
+                      "name": "富強",
+                      "children": [],
+                      "spouse": "慧敏"
+                    },
+                    {
+                      "name": "子涵",
+                      "children": []
+                    },
+                    {
+                      "name": "德康",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "明達",
+                  "children": [
+                    {
+                      "name": "和光",
+                      "children": []
+                    }
+                  ],
+                  "spouse": "子悅"
+                }
+              ],
+              "spouse": "文靜"
+            }
+          ],
+          "spouse": "永福"
+        },
+        {
+          "name": "柏森",
+          "children": [
+            {
+              "name": "興業",
+              "children": [
+                {
+                  "name": "子軒",
+                  "children": []
+                },
+                {
+                  "name": "清風",
+                  "children": []
+                }
+              ],
+              "spouse": "思遠"
+            }
+          ],
+          "spouse": "子睿"
+        }
+      ],
+      "spouse": "玉蘭"
+    },
+    {
+      "name": "興華",
+      "children": [
+        {
+          "name": "雅靜",
+          "children": [
+            {
+              "name": "永芳",
+              "children": []
+            }
+          ],
+          "spouse": "興邦"
+        },
+        {
+          "name": "思齊",
+          "children": [
+            {
+              "name": "和平",
+              "children": []
+            },
+            {
+              "name": "永安",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "建國",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "明賢",
+      "children": [
+        {
+          "name": "曉晴",
+          "children": [
+            {
+              "name": "興盛",
+              "children": [
+                {
+                  "name": "長青",
+                  "children": [
+                    {
+                      "name": "子謙",
+                      "children": [],
+                      "spouse": "思賢"
+                    }
+                  ],
+                  "spouse": "子霖"
+                }
+              ]
+            }
+          ],
+          "spouse": "明智"
+        }
+      ]
+    }
+  ],
+  "spouse": "星辰"
+}

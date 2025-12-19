@@ -1,0 +1,115 @@
+[
+  {
+    "person_b": "雅靜",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "曉晴",
+      "玉蘭"
+    ],
+    "llm_prediction": "玉蘭, 曉晴"
+  },
+  {
+    "person_b": "愛玲",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "子墨",
+      "興華"
+    ],
+    "llm_prediction": "子墨, 興華"
+  },
+  {
+    "person_b": "安邦",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "思賢"
+    ],
+    "llm_prediction": "思賢"
+  },
+  {
+    "person_b": "興邦",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "興業"
+    ],
+    "llm_prediction": "興業, 文靜"
+  },
+  {
+    "person_b": "明正",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子墨",
+      "子晨",
+      "子豪",
+      "子輝",
+      "德康",
+      "永祿",
+      "秀英",
+      "興隆",
+      "雅靜",
+      "雅麗"
+    ],
+    "llm_prediction": "雅靜,子墨,永祿,雅麗,興隆,子晨,秀英,德康,子豪,子輝"
+  },
+  {
+    "person_b": "子瑜",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "永祿",
+      "長福"
+    ],
+    "llm_prediction": "Let's re-verify the \"grandparent\" level.\n            *   Target: 子瑜\n            *   Parents: 明賢 (and spouse? The name next to 明賢 is 思"
+  },
+  {
+    "person_b": "和順",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "文秀",
+      "永祿",
+      "永福",
+      "長福",
+      "雅靜",
+      "雅麗"
+    ],
+    "llm_prediction": "雅靜, 永福, 永祿, 長福, 雅麗, 文秀"
+  },
+  {
+    "person_b": "瑞雪",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子涵",
+      "雅文"
+    ],
+    "llm_prediction": "ERROR"
+  },
+  {
+    "person_b": "文莉",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "天朗",
+      "子涵",
+      "雅文"
+    ],
+    "llm_prediction": "天朗, 子涵, 建國, 雅文"
+  },
+  {
+    "person_b": "雅文",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "文莉",
+      "長樂"
+    ],
+    "llm_prediction": "長樂, 文莉"
+  },
+  {
+    "person_b": "興隆",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "子豪",
+      "永祿",
+      "秀英",
+      "雅靜",
+      "雅麗"
+    ],
+    "llm_prediction": "雅靜, 子墨, 永祿, 雅麗, 秀英, 德康, 子豪, 子輝"
+  }
+]

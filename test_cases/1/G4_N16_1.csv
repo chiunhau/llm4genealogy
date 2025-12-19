@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+子濤,永福,CHILD
+柏森,和光,PARENT
+美慧,興盛,SPOUSE
+思齊,明月,SIBLING
+明達,美慧,GRANDCHILD
+和悅,和光,GRANDPARENT
+明達,天朗,UNCLE_OR_AUNT
+天朗,明達,NEPHEW_OR_NIECE
+子濤,興盛,GREAT_GRANDCHILD
+興盛,和光,GREAT_GRANDPARENT
+明達,子晨,COUSIN

@@ -1,0 +1,24 @@
+person_a,person_b,relationship_type,llm_prediction
+武雄,安國,CHILD,CHILD
+和順,愛玲,PARENT,SPOUSE
+明智,柏林,SPOUSE,SIBLING
+清風,柏森,SIBLING,SIBLING
+和平,安邦,GRANDCHILD,COUSIN
+和順,子晨,GRANDPARENT,"Based on the family tree provided:
+
+1.  **Locate Person B (子晨):** 子晨 is found on the far right of the tree.
+2.  **Trace upward from 子晨:**
+    *   子晨's parent is **子輝**.
+    *   Tracing up from 子輝, we see a vertical line coming from a horizontal line connecting two individuals: **和睦** and **和順**.
+3.  **Identify Person A (和順):** In this specific branch, 和順 is the spouse of 和睦, and together they are the parents of 子輝.
+4.  **Determine the relationship:**
+    *   Since 和順 is the parent of 子輝, and 子輝 is the parent of 子晨, 和順 is the grandparent of 子晨.
+
+Person A is Person B's GRANDPARENT.
+
+GRANDPARENT"
+文秀,建國,UNCLE_OR_AUNT,UNCLE_OR_AUNT
+子輝,夢瑤,NEPHEW_OR_NIECE,NEPHEW_OR_NIECE
+子賢,興業,GREAT_GRANDCHILD,OTHER
+安國,夢瑤,GREAT_GRANDPARENT,COUSIN
+雅麗,興隆,COUSIN,COUSIN

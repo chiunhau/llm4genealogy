@@ -1,0 +1,57 @@
+{
+  "name": "秀英",
+  "children": [
+    {
+      "name": "子濤",
+      "children": [
+        {
+          "name": "和光",
+          "children": [
+            {
+              "name": "雅文",
+              "children": []
+            }
+          ],
+          "spouse": "和睦"
+        },
+        {
+          "name": "瑞雪",
+          "children": [
+            {
+              "name": "天朗",
+              "children": []
+            },
+            {
+              "name": "愛玲",
+              "children": []
+            },
+            {
+              "name": "和悅",
+              "children": []
+            }
+          ],
+          "spouse": "夢潔"
+        }
+      ]
+    },
+    {
+      "name": "子陽",
+      "children": []
+    },
+    {
+      "name": "和光",
+      "children": [
+        {
+          "name": "武雄",
+          "children": []
+        },
+        {
+          "name": "思源",
+          "children": []
+        }
+      ],
+      "spouse": "興業"
+    }
+  ],
+  "spouse": "子霖"
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "person_b": "子輝",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "和悅",
+      "安邦"
+    ],
+    "llm_prediction": "和悅, 安邦"
+  },
+  {
+    "person_b": "安國",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "夢瑤"
+    ],
+    "llm_prediction": "夢瑤"
+  },
+  {
+    "person_b": "子睿",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "明珠"
+    ],
+    "llm_prediction": "NOT_FOUND"
+  },
+  {
+    "person_b": "長樂",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "明正",
+      "永安",
+      "秀英",
+      "興盛"
+    ],
+    "llm_prediction": "明正, 永安, 秀英, 興盛. (Check order: leftmost is 明正, next is 永安, next is 秀英, next is 興"
+  },
+  {
+    "person_b": "永安",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "和悅",
+      "安邦"
+    ],
+    "llm_prediction": "和悅, 安邦"
+  },
+  {
+    "person_b": "興華",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "安寧",
+      "文莉"
+    ],
+    "llm_prediction": "安寧, 文莉"
+  },
+  {
+    "person_b": "子睿",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "子辰",
+      "安國",
+      "富強",
+      "玉蘭",
+      "立民",
+      "美慧",
+      "長福",
+      "長青"
+    ],
+    "llm_prediction": "夢瑤, 長青, 玉蘭, 子辰, 美慧"
+  },
+  {
+    "person_b": "秀英",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子輝",
+      "子霖",
+      "清風",
+      "興華",
+      "雅文"
+    ],
+    "llm_prediction": "清風, 子霖, 子輝, 雅文, 興華"
+  },
+  {
+    "person_b": "安寧",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "和悅",
+      "夢瑤",
+      "子辰",
+      "安邦",
+      "明達",
+      "美慧",
+      "長青"
+    ],
+    "llm_prediction": "和悦, 安邦, 夢瑤, 長青, 子辰, 美慧, 明達"
+  },
+  {
+    "person_b": "立民",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "秀英"
+    ],
+    "llm_prediction": "ERROR"
+  },
+  {
+    "person_b": "子睿",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "安國",
+      "立民"
+    ],
+    "llm_prediction": "安國, 富強, 長福, 立民, 和順, 子墨"
+  }
+]

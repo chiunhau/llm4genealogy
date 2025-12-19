@@ -1,0 +1,72 @@
+{
+  "name": "麗華",
+  "children": [
+    {
+      "name": "思源",
+      "children": [],
+      "spouse": "和光"
+    },
+    {
+      "name": "子霖",
+      "children": [
+        {
+          "name": "夢潔",
+          "children": [
+            {
+              "name": "和平",
+              "children": []
+            },
+            {
+              "name": "清風",
+              "children": [
+                {
+                  "name": "和悅",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "星辰",
+              "children": [
+                {
+                  "name": "明月",
+                  "children": []
+                }
+              ]
+            }
+          ],
+          "spouse": "子豪"
+        }
+      ],
+      "spouse": "慧敏"
+    },
+    {
+      "name": "子濤",
+      "children": [
+        {
+          "name": "思齊",
+          "children": [
+            {
+              "name": "永祿",
+              "children": []
+            }
+          ],
+          "spouse": "思賢"
+        }
+      ],
+      "spouse": "思遠"
+    },
+    {
+      "name": "立民",
+      "children": []
+    },
+    {
+      "name": "瑞雪",
+      "children": []
+    },
+    {
+      "name": "明正",
+      "children": []
+    }
+  ]
+}

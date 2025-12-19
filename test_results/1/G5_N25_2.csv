@@ -1,0 +1,28 @@
+person_a,person_b,relationship_type,llm_prediction
+長樂,雅文,CHILD,CHILD
+和光,文莉,PARENT,PARENT
+安寧,長福,SPOUSE,SPOUSE
+子悅,明正,SIBLING,SIBLING
+和順,文傑,GRANDCHILD,GRANDCHILD
+子睿,和順,GRANDPARENT,GRANDPARENT
+清風,子墨,UNCLE_OR_AUNT,UNCLE_OR_AUNT
+安民,清風,NEPHEW_OR_NIECE,NEPHEW_OR_NIECE
+安邦,文傑,GREAT_GRANDCHILD,"Based on the family tree provided:
+
+1.  **Identify Person B (文傑):** 文傑 is a child of the ancestor 思源 (top level).
+2.  **Trace the direct line from 文傑:**
+    *   文傑 has a child named **和光**.
+    *   和光 has a child named **和順** (and others like 柏林, 文莉).
+3.  **Identify Person A (安邦):**
+    *   Looking at the branch under **柏森** (who is 文傑's sibling): 柏森's son is **安民**.
+    *   Next to **安民**, the name **和順** is listed as his spouse (this is the same 和順 who is the daughter of 和光).
+    *   **安邦** is a child of the couple **安民** and **和順**.
+4.  **Determine the relationship:**
+    *   Since **安邦** is the child of **和順**, and **和順** is the granddaughter of **文傑**, then **安邦** is the **great-grandchild** of **文傑**.
+    *   (Alternatively, looking through the paternal line: 安邦 is the grandson of 柏森, and 柏森 is 文傑's brother, making 安邦 文傑's grand-nephew. However, the direct descent through the mother 和順 provides a specific relationship included in the required list.)
+
+Person A (安邦) is Person B's (文傑) GREAT_GRANDCHILD.
+
+GREAT_GRANDCHILD"
+雅麗,文靜,GREAT_GRANDPARENT,GREAT_GRANDPARENT
+安邦,安國,COUSIN,COUSIN

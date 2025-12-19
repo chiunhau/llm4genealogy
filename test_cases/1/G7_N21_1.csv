@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+子豪,夢潔,CHILD
+思遠,清風,PARENT
+子琪,夢瑤,SPOUSE
+雅靜,興邦,SIBLING
+子睿,清風,GRANDCHILD
+子軒,長青,GRANDPARENT
+雅靜,子晨,UNCLE_OR_AUNT
+長青,子晨,NEPHEW_OR_NIECE
+子晨,子琪,GREAT_GRANDCHILD
+柏林,建國,GREAT_GRANDPARENT
+立民,清風,COUSIN

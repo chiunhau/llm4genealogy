@@ -1,0 +1,12 @@
+person_a,person_b,relationship_type
+文雅,瑞雪,CHILD
+瑞雪,文雅,PARENT
+子瑜,和悅,SPOUSE
+永祿,子琪,SIBLING
+明達,瑞雪,GRANDCHILD
+明智,思齊,GRANDPARENT
+子賢,明智,UNCLE_OR_AUNT
+明智,興業,NEPHEW_OR_NIECE
+子瑜,明達,GREAT_GRANDCHILD
+子濤,明珠,GREAT_GRANDPARENT
+夢瑤,子瑜,COUSIN

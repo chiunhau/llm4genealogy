@@ -1,0 +1,111 @@
+[
+  {
+    "person_b": "安國",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "武雄"
+    ],
+    "llm_prediction": "長福, 永祿, 武雄, 子悅"
+  },
+  {
+    "person_b": "愛玲",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "和順",
+      "子睿"
+    ],
+    "llm_prediction": "和順"
+  },
+  {
+    "person_b": "柏林",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "明智"
+    ],
+    "llm_prediction": "明智"
+  },
+  {
+    "person_b": "柏森",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "天朗",
+      "安民",
+      "清風",
+      "興隆"
+    ],
+    "llm_prediction": "興隆, 天朗, 安民"
+  },
+  {
+    "person_b": "安邦",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "和平",
+      "和睦",
+      "夢瑤"
+    ],
+    "llm_prediction": "NOT_FOUND"
+  },
+  {
+    "person_b": "子晨",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "和睦",
+      "和順"
+    ],
+    "llm_prediction": "和睦, 和光"
+  },
+  {
+    "person_b": "建國",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "文秀"
+    ],
+    "llm_prediction": "ERROR"
+  },
+  {
+    "person_b": "夢瑤",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子輝",
+      "雅麗"
+    ],
+    "llm_prediction": "雅麗, 明達平, 和平"
+  },
+  {
+    "person_b": "興業",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "和平",
+      "和睦",
+      "夢瑤",
+      "子晨",
+      "子賢",
+      "子辰",
+      "文秀",
+      "文雅",
+      "明月",
+      "美慧"
+    ],
+    "llm_prediction": "永福, 文秀, 明月, 建國, 瑞雪, 安國, 永芳, 和睦, 達平, 夢瑤, 子輝,"
+  },
+  {
+    "person_b": "夢瑤",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "安國",
+      "瑞雪",
+      "立民",
+      "興業"
+    ],
+    "llm_prediction": "興華, 明珠, 興業, 立民"
+  },
+  {
+    "person_b": "興隆",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "明珠",
+      "雅麗"
+    ],
+    "llm_prediction": "天朗, 柏森, 安民, 文靜, 永芳, 子睿, 愛玲, 長青, 子墨, 和光, 明珠, 夢"
+  }
+]

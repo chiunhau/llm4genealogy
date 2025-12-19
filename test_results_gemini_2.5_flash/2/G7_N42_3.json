@@ -1,0 +1,115 @@
+[
+  {
+    "person_b": "雅靜",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "曉晴",
+      "玉蘭"
+    ],
+    "llm_prediction": "玉蘭, 曉晴"
+  },
+  {
+    "person_b": "愛玲",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "子墨",
+      "興華"
+    ],
+    "llm_prediction": "興華, 子墨"
+  },
+  {
+    "person_b": "安邦",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "思賢"
+    ],
+    "llm_prediction": "NOT_FOUND"
+  },
+  {
+    "person_b": "興邦",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "興業"
+    ],
+    "llm_prediction": "興業"
+  },
+  {
+    "person_b": "明正",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子墨",
+      "子晨",
+      "子豪",
+      "子輝",
+      "德康",
+      "永祿",
+      "秀英",
+      "興隆",
+      "雅靜",
+      "雅麗"
+    ],
+    "llm_prediction": "明珠, 玉蘭, 曉晴, 和順, 愛玲, 子悅, 美慧, 子瑜, 思賢, 安邦, 靜宜, 麗華"
+  },
+  {
+    "person_b": "子瑜",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "永祿",
+      "長福"
+    ],
+    "llm_prediction": "子瑜's parent is 明賢.\n- 明賢's parents are 永祿 and 長福. (They are connected by a horizontal line, signifying they are spouses, and 明"
+  },
+  {
+    "person_b": "和順",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "文秀",
+      "永祿",
+      "永福",
+      "長福",
+      "雅靜",
+      "雅麗"
+    ],
+    "llm_prediction": "雅靜, 永福, 永祿, 文秀, 雅麗, 興隆, 秀英, 德康, 子琪, 和光, 子輝"
+  },
+  {
+    "person_b": "瑞雪",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子涵",
+      "雅文"
+    ],
+    "llm_prediction": "NOT_FOUND"
+  },
+  {
+    "person_b": "文莉",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "天朗",
+      "子涵",
+      "雅文"
+    ],
+    "llm_prediction": "安康, 慧敏, 瑞雪"
+  },
+  {
+    "person_b": "雅文",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "文莉",
+      "長樂"
+    ],
+    "llm_prediction": "德康, 文莉"
+  },
+  {
+    "person_b": "興隆",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "子豪",
+      "永祿",
+      "秀英",
+      "雅靜",
+      "雅麗"
+    ],
+    "llm_prediction": "曉晴, 和順, 愛玲, 興盛, 安民, 子霖, 明賢, 麗華, 永芳, 安寧, 星辰,"
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "person_b": "雅麗",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "德康"
+    ],
+    "llm_prediction": "德康"
+  },
+  {
+    "person_b": "瑞雪",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "永福",
+      "興華"
+    ],
+    "llm_prediction": "永福, 興華"
+  },
+  {
+    "person_b": "玉蘭",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "清風"
+    ],
+    "llm_prediction": "清風"
+  },
+  {
+    "person_b": "明珠",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "子墨",
+      "安寧",
+      "興業",
+      "長樂",
+      "雅麗"
+    ],
+    "llm_prediction": "興業, 長樂, 子軒, 子墨, 安寧, 雅麗"
+  },
+  {
+    "person_b": "安民",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子墨",
+      "安寧",
+      "明珠",
+      "永福",
+      "興業",
+      "長樂",
+      "雅麗"
+    ],
+    "llm_prediction": "興業, 長樂, 子墨, 安寧, 雅麗, 明珠, 永福"
+  },
+  {
+    "person_b": "永祿",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "興邦"
+    ],
+    "llm_prediction": "興邦, 興華"
+  },
+  {
+    "person_b": "子辰",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "和順",
+      "永祿",
+      "瑞雪",
+      "長青"
+    ],
+    "llm_prediction": "長青, 和順"
+  },
+  {
+    "person_b": "和順",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子辰",
+      "玉蘭"
+    ],
+    "llm_prediction": "思源, 子辰, 玉蘭"
+  },
+  {
+    "person_b": "思賢",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "子瑜",
+      "子辰",
+      "子陽",
+      "子霖",
+      "安邦",
+      "思源",
+      "文靜",
+      "玉蘭"
+    ],
+    "llm_prediction": "ERROR"
+  },
+  {
+    "person_b": "瑞雪",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "子賢",
+      "安民"
+    ],
+    "llm_prediction": "安民, 子賢"
+  },
+  {
+    "person_b": "文靜",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "安邦"
+    ],
+    "llm_prediction": "文傑, 永芳, 安邦, 子瑜, 長青, 和悅, 和睦, 德康"
+  }
+]

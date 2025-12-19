@@ -1,0 +1,116 @@
+[
+  {
+    "person_b": "雅靜",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "明正",
+      "清風"
+    ],
+    "llm_prediction": "和平, 明正, 清風, 興邦, 子陽"
+  },
+  {
+    "person_b": "子輝",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "子陽",
+      "慧敏"
+    ],
+    "llm_prediction": "慧敏, 子陽"
+  },
+  {
+    "person_b": "永祿",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "子瑜"
+    ],
+    "llm_prediction": "子瑜"
+  },
+  {
+    "person_b": "武雄",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "文傑"
+    ],
+    "llm_prediction": "子豪, 文傑"
+  },
+  {
+    "person_b": "和悅",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子賢",
+      "子軒",
+      "子辰",
+      "安寧",
+      "思遠",
+      "雅麗"
+    ],
+    "llm_prediction": "安寧, 安康, 子辰, 柏林, 思遠, 瑞雪, 雅麗, 子賢"
+  },
+  {
+    "person_b": "和光",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "愛玲",
+      "雅靜"
+    ],
+    "llm_prediction": "雅靜, 愛玲"
+  },
+  {
+    "person_b": "雅麗",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "子瑜",
+      "富強",
+      "文秀",
+      "永祿",
+      "雅文"
+    ],
+    "llm_prediction": "富強, 文秀, 雅文, 思遠, 永祿, 子瑜"
+  },
+  {
+    "person_b": "永祿",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子賢",
+      "子軒",
+      "子辰",
+      "安寧",
+      "思遠",
+      "雅麗"
+    ],
+    "llm_prediction": "子辰, 思遠, 子賢"
+  },
+  {
+    "person_b": "和悅",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "建國",
+      "文靜",
+      "興盛",
+      "長樂",
+      "長福"
+    ],
+    "llm_prediction": "安寧, 安康, 長樂, 長福, 文靜, 興盛, 建國"
+  },
+  {
+    "person_b": "文靜",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "和平",
+      "和悅"
+    ],
+    "llm_prediction": "和平, 和悦"
+  },
+  {
+    "person_b": "和光",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "和順",
+      "明智",
+      "星辰",
+      "永祿",
+      "雅文"
+    ],
+    "llm_prediction": "富強, 雅文, 文雅, 永祿, 明智, 和順, 子輝, 星辰, 德康, 明賢, 永福"
+  }
+]

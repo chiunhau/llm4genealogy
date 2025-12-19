@@ -1,0 +1,13 @@
+person_a,person_b,relationship_type,llm_prediction
+秀英,星辰,CHILD,CHILD
+和悅,明智,PARENT,PARENT
+興邦,和順,SPOUSE,SIBLING
+思遠,美慧,SIBLING,SIBLING
+安國,長樂,GRANDCHILD,GRANDCHILD
+和悅,永祿,GRANDPARENT,NEPHEW_OR_
+和光,子悅,UNCLE_OR_AUNT,GRANDPARENT
+永祿,和睦,NEPHEW_OR_NIECE,OTHER
+安國,子濤,GREAT_GRANDCHILD,NEPHEW_OR_NIECE
+和悅,雅麗,GREAT_GRANDPARENT,COUSIN
+永祿,愛玲,COUSIN,"(Zǐyáng).
+    *"

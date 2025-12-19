@@ -1,0 +1,113 @@
+[
+  {
+    "person_b": "子瑜",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "子濤",
+      "玉蘭"
+    ],
+    "llm_prediction": "和平, 安國, 玉蘭, 和順, 子濤, 富強, 雅靜"
+  },
+  {
+    "person_b": "玉蘭",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "子瑜",
+      "文雅"
+    ],
+    "llm_prediction": "子瑜, 文雅"
+  },
+  {
+    "person_b": "長福",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "子悅"
+    ],
+    "llm_prediction": "子悅"
+  },
+  {
+    "person_b": "興業",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "安民",
+      "文莉",
+      "雅麗"
+    ],
+    "llm_prediction": "興隆, 文莉, 雅麗, 安民"
+  },
+  {
+    "person_b": "富強",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "安民",
+      "思齊",
+      "文莉",
+      "柏森",
+      "永芳",
+      "興業",
+      "雅麗"
+    ],
+    "llm_prediction": "興隆, 文莉, 興業, 雅麗, 安民, 子軒, 永芳, 思齊, 和悅, 柏森"
+  },
+  {
+    "person_b": "子謙",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "子瑜",
+      "文雅"
+    ],
+    "llm_prediction": "文雅, 子瑜"
+  },
+  {
+    "person_b": "子悅",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "和順",
+      "子濤",
+      "玉蘭"
+    ],
+    "llm_prediction": "和順, 玉蘭, 安國, 興華, 德康, 長福, 愛玲, 安邦"
+  },
+  {
+    "person_b": "德康",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "安民",
+      "思齊",
+      "柏森",
+      "雅麗"
+    ],
+    "llm_prediction": "興隆, 文莉, 興業, 雅麗, 安民, 子軒, 永芳, 思齊, 和悅, 柏森"
+  },
+  {
+    "person_b": "文雅",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "安民",
+      "思齊",
+      "文莉",
+      "柏森",
+      "永芳",
+      "興業",
+      "雅麗"
+    ],
+    "llm_prediction": "子謙, 興隆, 文莉, 興業, 雅麗, 安民, 子軒, 永芳, 思齊, 和悅, 柏森"
+  },
+  {
+    "person_b": "思齊",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "子瑜",
+      "文雅"
+    ],
+    "llm_prediction": "子瑜, 文雅"
+  },
+  {
+    "person_b": "思齊",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "雅麗"
+    ],
+    "llm_prediction": "興隆, 文莉, 興業, 雅麗, 安民, 永芳, 子軒"
+  }
+]

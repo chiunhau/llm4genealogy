@@ -1,0 +1,100 @@
+[
+  {
+    "person_b": "安邦",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "子霖",
+      "秀英"
+    ],
+    "llm_prediction": "興邦, 子瑜"
+  },
+  {
+    "person_b": "思遠",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "子墨",
+      "柏森"
+    ],
+    "llm_prediction": "柏森,明月"
+  },
+  {
+    "person_b": "子睿",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "永祿"
+    ],
+    "llm_prediction": "子晨"
+  },
+  {
+    "person_b": "柏森",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "文傑"
+    ],
+    "llm_prediction": "柏森, 永祿, 明月, 思遠, 靜宜, 明正"
+  },
+  {
+    "person_b": "天朗",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "子琪",
+      "文莉"
+    ],
+    "llm_prediction": "玉蘭, 子琪, 長福, 文莉"
+  },
+  {
+    "person_b": "子霖",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "子晨",
+      "興邦"
+    ],
+    "llm_prediction": "夢瑤, 雅靜, 子霖, 秀英"
+  },
+  {
+    "person_b": "文莉",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "星辰"
+    ],
+    "llm_prediction": "星辰, 文傑, 明月, 永祿, 子睿, 思遠, 靜宜, 明正, 子陽"
+  },
+  {
+    "person_b": "星辰",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "子琪",
+      "文莉"
+    ],
+    "llm_prediction": "子悦, 子琪, 長福, 文莉"
+  },
+  {
+    "person_b": "永祿",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "子霖",
+      "慧敏",
+      "明賢",
+      "秀英",
+      "雅靜"
+    ],
+    "llm_prediction": "子晨, 永福, 柏林, 子輝, 雅文, 夢瑤, 安邦, 子瑜, 子墨, 立民, 瑞雪"
+  },
+  {
+    "person_b": "安康",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "子陽",
+      "明珠"
+    ],
+    "llm_prediction": "明月, 文傑, 柏森, 子墨"
+  },
+  {
+    "person_b": "和光",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "興隆"
+    ],
+    "llm_prediction": "NOT_FOUND"
+  }
+]

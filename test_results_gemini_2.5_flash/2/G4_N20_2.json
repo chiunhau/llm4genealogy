@@ -1,0 +1,120 @@
+[
+  {
+    "person_b": "和平",
+    "relationship_type": "CHILD",
+    "possible_person_a": [
+      "子墨",
+      "子瑜",
+      "文莉",
+      "明正",
+      "興邦"
+    ],
+    "llm_prediction": "兴邦, 子墨, 文莉, 子瑜"
+  },
+  {
+    "person_b": "德康",
+    "relationship_type": "PARENT",
+    "possible_person_a": [
+      "文靜"
+    ],
+    "llm_prediction": "文靜"
+  },
+  {
+    "person_b": "文雅",
+    "relationship_type": "SPOUSE",
+    "possible_person_a": [
+      "子陽"
+    ],
+    "llm_prediction": "夢潔"
+  },
+  {
+    "person_b": "子軒",
+    "relationship_type": "SIBLING",
+    "possible_person_a": [
+      "子陽",
+      "德康",
+      "永安",
+      "興華"
+    ],
+    "llm_prediction": "興華, 文子陽, 柏森, 德康"
+  },
+  {
+    "person_b": "子陽",
+    "relationship_type": "GRANDCHILD",
+    "possible_person_a": [
+      "夢潔",
+      "天朗",
+      "子墨",
+      "子晨",
+      "子瑜",
+      "文莉",
+      "明正",
+      "星辰",
+      "興邦"
+    ],
+    "llm_prediction": "星辰, 子晨, 天朗, 夢潔, 興邦, 子墨, 文莉, 子瑜"
+  },
+  {
+    "person_b": "慧敏",
+    "relationship_type": "GRANDPARENT",
+    "possible_person_a": [
+      "文靜"
+    ],
+    "llm_prediction": "文靜, 興華"
+  },
+  {
+    "person_b": "興盛",
+    "relationship_type": "UNCLE_OR_AUNT",
+    "possible_person_a": [
+      "子軒",
+      "德康",
+      "興華"
+    ],
+    "llm_prediction": "興華, 文子, 雅陽, 德康, 子軒"
+  },
+  {
+    "person_b": "子軒",
+    "relationship_type": "NEPHEW_OR_NIECE",
+    "possible_person_a": [
+      "和平",
+      "愛玲",
+      "慧敏",
+      "興盛",
+      "雅文"
+    ],
+    "llm_prediction": "長青, 興盛, 雅文, 和順, 明正, 愛玲, 永祿, 慧敏"
+  },
+  {
+    "person_b": "文靜",
+    "relationship_type": "GREAT_GRANDCHILD",
+    "possible_person_a": [
+      "夢潔",
+      "天朗",
+      "子墨",
+      "子晨",
+      "子瑜",
+      "文莉",
+      "明正",
+      "星辰",
+      "興邦"
+    ],
+    "llm_prediction": "星辰, 子晨, 天朗, 夢潔, 興邦, 子墨, 文莉, 子瑜"
+  },
+  {
+    "person_b": "興邦",
+    "relationship_type": "GREAT_GRANDPARENT",
+    "possible_person_a": [
+      "文靜"
+    ],
+    "llm_prediction": "文靜"
+  },
+  {
+    "person_b": "夢潔",
+    "relationship_type": "COUSIN",
+    "possible_person_a": [
+      "明正",
+      "星辰"
+    ],
+    "llm_prediction": "星辰, 子晨, 天朗, 興邦, 子墨, 文莉, 子瑜"
+  }
+]
