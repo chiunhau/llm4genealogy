@@ -1,5 +1,5 @@
 #  LLM for Genealogy
-This repo contains the source code used for synthesizing data and evaluating the performance of LLMs in genealogy tasks. The main document is currently in draft and can be found in this [Google Doc](https://docs.google.com/document/d/1uVTOFBiDz5dR0NrcqFQ8W5WUeOngx9gfOiQLO80SKZw/edit?usp=sharing).
+This repo contains the source code used for synthesizing data and evaluating the performance of LLMs in genealogy tasks. The main document is currently in draft and can be found in `report.pdf`.
 
 
 ## Project Overview
