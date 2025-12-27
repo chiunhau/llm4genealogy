@@ -32,7 +32,7 @@ def calculate_jaccard_score(set1, set2):
 def evaluate_results():
     SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
     # results_dir = os.path.join(SCRIPT_DIR, "test_results/2")
-    results_dir = os.path.join(SCRIPT_DIR, "test_results_gemini_2.5_flash/2")
+    results_dir = os.path.join(SCRIPT_DIR, "test_results_gemini_3_flash/2")
     
     if not os.path.exists(results_dir):
         print(f"Results directory '{results_dir}' not found.")

@@ -1,10 +1,10 @@
 #  LLM for Genealogy
-This repo contains the source code used for synthesizing data and evaluating the performance of LLMs in genealogy tasks. The main document is currently in draft and can be found in `report.pdf`.
+This repo contains the source code used for synthesizing data and evaluating the performance of LLMs in genealogy tasks. The main report can be found in `report.pdf`.
 
 
 ## Project Overview
 Our goal is to test the ability of state-of-the-art LLMs in understanding and interpreting traditional Chinese genealogical images and explore how they can be used in digital humanities. 
-We developed a program that generates synthetic genealogical images mimicking authentic Chinese genealogical images, and asked LLMs to answer two types of questions: 1) predict given two figures’ relationship in the family, and 2) identify all figures of a certain relationship of a given figure’s name. We generated a total of 60 genealogical images of various dimensions, and tested 22 questions against each image using Gemini 2.5 Flash and GPT 5 mini.
+We developed a program that generates synthetic genealogical images mimicking authentic Chinese genealogical images, and asked LLMs to answer two types of questions: 1) predict given two figures’ relationship in the family, and 2) identify all figures of a certain relationship of a given figure’s name. We generated a total of 60 genealogical images of various dimensions, and tested 22 questions against each image using Gemini 2.5 Flash and Gemini 3 Flash.
 
 ## Setup
 - Please make sure you have Python 3 installed.
@@ -28,4 +28,5 @@ We developed a program that generates synthetic genealogical images mimicking au
 
 ### Evaluation
 - Run `evaluate_results_1.py` and `evaluate_results_2.py` to evaluate the results.
+- Remember to change the `results_dir` in the scripts to the directory where your test results are stored.
 - The evaluation results will be printed to the console.
